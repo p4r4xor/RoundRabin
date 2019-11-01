@@ -1,2 +1,2 @@
 # Rabin-Cryptosystem
-Encryption and Decryption of Rabin Cryptosystem
+Encryption, Decryption and Keygeneration of Rabin Cryptosystem
