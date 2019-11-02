@@ -7,7 +7,7 @@ Encryption, Decryption and Keygeneration of Rabin Cryptosystem
   
 ### Build Details
 ```
-git clone https://github.com/p4r4xor/integer-factorization.git  
+git clone https://github.com/p4r4xor/rabin-cryptosystem.git
 cd integer-factorization/  
 go build rabin-decrypt.go
 go build rabin-encrypt.go
