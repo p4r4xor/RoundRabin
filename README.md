@@ -1,4 +1,4 @@
-# Rabin-Cryptosystem
+# RoundRabin
 Encryption, Decryption and Keygeneration of Rabin Cryptosystem
 
 ### References Used
